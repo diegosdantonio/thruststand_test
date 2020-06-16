@@ -1,24 +1,24 @@
 # Thruststant RCbenchmark test
 
+![RCbenchmark](media/1580_RCbenchmark.jpg)
+
+### Test 1
 #### Materials
 
-
-
-#### Test 1
-
-EMAX RS1108 - 5200KV, Propeller "EMAX avan Quad-Blade 2 inch", and "Batt 2S"
-
-<img src="figures/Thrust_EMAXRS1108_EMAXavan2inch.png" width="425"/> <img src="figures/Torque_EMAXRS1108_EMAXavan2inch.png" width="425"/> 
+* **Motor** EMAX RS1108 - 5200KV 
+* **Propeller** "EMAX avan Quad-Blade 2 inch
+* **Battery** Tattu 650 mAh 2CELLS
+* **ESC** AKK 20 A 4 en 1 BLHeli 2S–4S
 
 ![](figures/Thrust_EMAXRS1108_EMAXavan2inch.png) ![](figures/Torque_EMAXRS1108_EMAXavan2inch.png)
 
 
 #### Test 2
-Motor_name = "BETA FPV 1105-6000KV"
-Propeller_name = "EMAX avan Quad-Blade 2 inch"
-Batt = "Batt 2S"
 
+* **Motor** BETA FPV 1105-6000KV
+* **Propeller** "EMAX avan Quad-Blade 2 inch
+* **Battery** Tattu 650 mAh 2CELLS
+* **ESC** AKK 20 A 4 en 1 BLHeli 2S–4S
 
-![](figures/Thrust_BETAFPV1105_EMAXavan2inch.png)
-![](figures/Torque_BETAFPV1105_EMAXavan2inch.png)
+![](figures/Thrust_BETAFPV1105_EMAXavan2inch.png) ![](figures/Torque_BETAFPV1105_EMAXavan2inch.png)
 
