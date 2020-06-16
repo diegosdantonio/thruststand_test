@@ -1,6 +1,7 @@
 # Thruststant RCbenchmark test
 
-![RCbenchmark](media/1580_RCbenchmark.jpg)
+![RCbenchmark](media/1580_RCbenchmark.jpg | width=100)
+<img src="media/1580_RCbenchmark.jpg" alt="alt text" width="100">
 
 ### Test 1
 #### Materials
