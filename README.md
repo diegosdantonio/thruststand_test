@@ -10,7 +10,7 @@
 * **Propeller** "EMAX avan Quad-Blade 2 inch
 * **ESC** AKK 20 A 4 en 1 BLHeli 2S–4S
 
-<img src="figures/Thrust_EMAXRS1108_EMAXavan2inch_3S.png" alt="alt text" width="300"> <img src="figures/Torque_EMAXRS1108_EMAXavan2inch_3S.png.png" alt="alt text" width="300">
+<img src="figures/Thrust_EMAXRS1108_EMAXavan2inch_3S.png" alt="alt text" width="300"> <img src="figures/Torque_EMAXRS1108_EMAXavan2inch_3S.png" alt="alt text" width="300">
 
 
 ### Test 2
