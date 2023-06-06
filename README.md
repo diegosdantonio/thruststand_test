@@ -32,4 +32,4 @@
 
 <img src="figures/Thrust_BETAFPV1105_EMAXavan2inch.png" alt="alt text" width="300"> <img src="figures/Torque_BETAFPV1105_EMAXavan2inch.png" alt="alt text" width="300">
 
-<img src="figures/Thrust (gf) vs. ESC signal (µs) 0802SE 23000KV with 20mm bi-blade on 1S.pdf" alt="Thrust (gf) vs. ESC signal (µs) 0802SE 23000KV with 20mm bi-blade on 1S" width="300"> 
+<img src="figures/Thrust (gf) vs. ESC signal (µs) 0802SE 23000KV with 20mm bi-blade on 1S.svg" alt="Thrust (gf) vs. ESC signal (µs) 0802SE 23000KV with 20mm bi-blade on 1S" width="300"> 
