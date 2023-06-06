@@ -39,4 +39,4 @@
 * **Motor** BETAFPV 0802SE-23000KV
 * **Propeller** "Gemfan Durable Bi-blade 20mm
 * **ESC** AGFRC XR-4A
-<img src="figures/Thrust (gf) vs. ESC signal (µs) 0802SE 23000KV with 20mm bi-blade on 1S.svg" alt="Thrust (gf) vs. ESC signal (µs) 0802SE 23000KV with 20mm bi-blade on 1S" width="300"> 
+<img src="figures/Thrust (gf) vs. ESC signal (µs) 0802SE 23000KV with 20mm bi-blade on 1S.svg" alt="Thrust (gf) vs. ESC signal (µs) 0802SE 23000KV with 20mm bi-blade on 1S" width="450"> 
