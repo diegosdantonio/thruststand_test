@@ -56,4 +56,4 @@
 * **Propeller** "Bi-blade 65mm
 * **ESC** AGFRC XR-4A
 
-<img src="figures/ESC signal (µs) and Thrust (gf) 65mm 4A esc.svg" alt="Thrust (gf) vs. ESC signal (µs) 1102 22000KV with 65mm bi-blade on 1S" width="400"> <img src="figures/ESC signal (µs) and Current (A) 65mm 4A esc.svg" alt="Current (A) vs. ESC signal (µs) 1102 22000KV with 65mm bi-blade on 1S" width="400">
+<img src="figures/ESC signal (µs) and Thrust (gf) 65mm 4A esc.svg" alt="Thrust (gf) vs. ESC signal (µs) 1102 22000KV with 65mm bi-blade on 1S" width="500"> <img src="figures/ESC signal (µs) and Current (A) 65mm 4A esc.svg" alt="Current (A) vs. ESC signal (µs) 1102 22000KV with 65mm bi-blade on 1S" width="500">
