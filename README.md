@@ -57,3 +57,12 @@
 * **ESC** AGFRC XR-4A
 
 <img src="figures/ESC signal (µs) and Thrust (gf) 65mm 4A esc.svg" alt="Thrust (gf) vs. ESC signal (µs) 1102 22000KV with 65mm bi-blade on 1S" width="500"> <img src="figures/ESC signal (µs) and Current (A) 65mm 4A esc.svg" alt="Current (A) vs. ESC signal (µs) 1102 22000KV with 65mm bi-blade on 1S" width="500">
+
+#### Test 7
+
+* **Battery** URGENEX 250 mAh 1-cell
+* **Motor** BETAFPV 1102-22000KV
+* **Propeller** "Bi-blade 65mm
+* **ESC** XSD7A
+
+<img src="figures/PXL_20230624_221548740.MP.jpg" alt="Setup of BetaFPV 1102-22000KV-XSD7A motor-esc stack with 65mm bi-blade on 1S" width="500"> <img src="figures/Thrust (gf) vs. ESC signal (µs).svg" alt="Thrust (gf) vs. ESC signal (µs) 1102 22000KV with 65mm bi-blade on 1S" width="500"> <img src="figures/Current (A) vs. ESC signal (µs).svg" alt="Current (A) vs. ESC signal (µs) 1102 22000KV with 65mm bi-blade on 1S" width="500">
